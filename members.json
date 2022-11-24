@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "name": "test1",
+    "address": "",
+    "email": "test1.gmail.com",
+    "membertype": "gold",
+    "accountstatus": true
+  },
+  {
+    "id": "002",
+    "name": "test2",
+    "address": "",
+    "email": "test2.gmail.com",
+    "membertype": "platinum",
+    "accountstatus": true
+  },
+  {
+    "id": "003",
+    "name": "test3",
+    "address": "",
+    "email": "test3.gmail.com",
+    "membertype": "silver",
+    "accountstatus": true
+  }
+]
