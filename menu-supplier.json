@@ -1,6 +1,6 @@
 [
 	{
-		componentName": "HomeComponent",
+		"componentName": "HomeComponent",
 		"label": "Home",
 		"disabled": false,
 		"children": []
