@@ -1,0 +1,101 @@
+menuItems : [
+	{
+		componentName: ‘HomeComponent’,
+		label: ‘Home’,
+		disabled: false,
+		children: []
+	},
+	{
+		componentName: ‘CompanyComponent’,
+		label: ‘Company Profile’,
+		disabled: false,
+		children: []
+	},
+	{
+		componentName: ‘PaymentComponent’,
+		label: ‘Payment’,
+		disabled: false,
+		children: []
+	},
+	{
+		componentName: ‘OrdersComponent’,
+		label: ‘Orders’,
+		disabled: false,
+		children: [
+			{
+				componentName: ‘PurchaseComponent’,
+				label: ‘Purchase Orders’,
+				disabled: false,
+				children: []
+			},
+			{
+				componentName: ‘InquiriesComponent’,
+				label: ‘Inquiries’,
+				disabled: false,
+				children: []
+			},
+			{
+				componentName: ‘RequisitionsComponent’,
+				label: ‘Requisitions’,
+				disabled: false,
+				children: []
+			},
+			{
+				componentName: ‘QuotationsComponent’,
+				label: ‘Quotations’,
+				disabled: false,
+				children: []
+			}
+		]
+	},
+	{
+		componentName: ‘InboxComponent’,
+		label: ‘Inbo’x,
+		disabled: false,
+		children: [
+			{
+				componentName: ‘InboxComponent’,
+				label: ‘Purchase Orders’,
+				disabled: false,
+				children: []
+			},
+			{
+				componentName: ‘InboxComponent’,
+				label: ‘Payment Requests’,
+				disabled: false,
+				children: []
+			},
+			{
+				componentName: ‘InboxComponent’,
+				label: ‘Transport Requests’,
+				disabled: false,
+				children: []
+			},
+			{
+				componentName: ‘InboxComponent’,
+				label: ‘Enquiries’,
+				disabled: false,
+				children: []
+			}
+		]
+	},
+	{
+		componentName: ‘OutboxComponent’,
+		label: ‘Outbox’,
+		disabled: false,
+		children: [
+			{
+				componentName: ‘OutboxComponent’,
+				label: ‘Drafts’,
+				disabled: false,
+				children: []
+			},
+			{
+				componentName: ‘InboxComponent’,
+				label: ‘Sent’,
+				disabled: false,
+				children: []
+			}
+		]
+	}
+]
