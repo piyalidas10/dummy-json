@@ -1,0 +1,42 @@
+[
+	{
+		"id": "423423432",
+		"notificationtype": "purchase",
+		"timestamp": 1314123,
+		"description": "",
+        "url": "https://demo.html",
+        "status": "READ"
+	},
+    {
+		"id": "123123232",
+		"notificationtype": "payment",
+		"timestamp": 1314123,
+		"description": "",
+        "url": "https://demo.html",
+        "status": "READ"
+	},
+    {
+		"id": "97687665",
+		"notificationtype": "transport",
+		"timestamp": 1314123,
+		"description": "",
+        "url": "https://demo.html",
+        "status": "UNREAD"
+	},
+    {
+		"id": "67565634",
+		"notificationtype": "enquiry",
+		"timestamp": 1314123,
+		"description": "",
+        "url": "https://demo.html",
+        "status": "READ"
+	},
+    {
+		"id": "34345234",
+		"notificationtype": "quotation",
+		"timestamp": 1314123,
+		"description": "",
+        "url": "https://demo.html",
+        "status": "UNREAD"
+	}
+]
