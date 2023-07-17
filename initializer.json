@@ -1,7 +1,9 @@
-[
+{
+"api": [
 {"fakeuser": "https://raw.githubusercontent.com/piyalidas10/dummy-json/main/fakeuser.json"},
 {"members": "https://raw.githubusercontent.com/piyalidas10/dummy-json/main/members.json"},
 {"menu-supplier": "https://raw.githubusercontent.com/piyalidas10/dummy-json/main/menu-supplier.json"},
 {"notification": "https://raw.githubusercontent.com/piyalidas10/dummy-json/main/notification.json"},
 {"users": "https://raw.githubusercontent.com/piyalidas10/dummy-json/main/users.json"}
 ]
+}
