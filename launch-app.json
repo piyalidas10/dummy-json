@@ -1,7 +1,7 @@
 {
-  appVersion: '0.0.0',
-  appBaseURL: 'https://www.google.co.in/',
-  appEnv: 'PROD',
-  accountRole: 'basic',
-  lastAccessTime: '2024-10-31-T17:07:52.034Z'
+  "appVersion": "0.0.0",
+  "appBaseURL": "https://www.google.co.in/",
+  "appEnv": "PROD",
+  "accountRole": "basic",
+  "lastAccessTime": "2024-10-31-T17:07:52.034Z"
 }
